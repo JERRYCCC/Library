@@ -1,4 +1,4 @@
 library
 =======
 
-Some very clear codes
+Some Easy Algorithm
